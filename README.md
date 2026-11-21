@@ -84,7 +84,7 @@ Expected Graduation: 2027
 ## 🌐 Connect With Me
 
 📧 [Email](mailto:vyasanjali2006@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/anjali-vyas-1028a039/)  
+💼 [LinkedIn](www.linkedin.com/in/anjali-vyas06)  
 🌐 [Portfolio](https://anjali-vyas-portfolio.netlify.app)
 
 ---
