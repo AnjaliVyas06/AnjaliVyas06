@@ -66,13 +66,6 @@ and provides currency conversion.
 
 ---
 
-### 🤖 AI Therapist
-
-An AI-focused web application exploring conversational
-experiences and practical AI integration.
-
----
-
 ## 🎓 Education
 
 **Bachelor of Computer Applications (BCA)**  
